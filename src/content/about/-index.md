@@ -1,7 +1,7 @@
 ---
 title: About Us
 description: this is meta description
-image: "@assets/profile/jane-doe.jpg"
+image: "@assets/profile/david.jpg"
 draft: false
 ---
 
