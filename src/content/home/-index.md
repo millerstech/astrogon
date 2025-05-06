@@ -1,5 +1,5 @@
 ---
-image: "@assets/big-M.png"
+image: "@assets/big-m.png"
 imageAlt: Millers Tech logo
 title: Millers Tech
 content: At Millers Tech we clean and repair computers. We also acquire off-lease computers to refurbish and sell at a reasonable price.
