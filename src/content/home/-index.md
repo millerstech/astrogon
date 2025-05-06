@@ -1,9 +1,9 @@
 ---
-image: "@assets/astrogon-star.svg"
-imageAlt: Astrogon logo
-title: Astrogon
-content: A rapidly-customizable template for a blog, documentation, and more.
+image: "@assets/big-M.png"
+imageAlt: Millers Tech logo
+title: Millers Tech
+content: At Millers Tech we clean and repair computers. We also acquire off-lease computers to refurbish and sell at a reasonable price.
 button:
-  label: See the Code
-  link: https://github.com/astrogon/astrogon
+  label: Store
+  link: https://millers-tech.square.site/
 ---
